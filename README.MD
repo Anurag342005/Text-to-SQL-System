@@ -247,8 +247,6 @@ This improves SQL generation accuracy and reliability.
 
 **Anurag**
 
-AI / Generative AI Developer
-
 ---
 
 ## ⭐ Project Highlights
