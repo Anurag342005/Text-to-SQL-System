@@ -82,7 +82,8 @@ Text-to-SQL-System/
 │
 ├── app.py                     # Streamlit UI
 │
-├── database.py                # Database creation
+├── database/
+│   ├── create_db.py           # Database creation
 │
 ├── sql/
 │   ├── generator.py           # Generate SQL query
@@ -96,8 +97,7 @@ Text-to-SQL-System/
 ├── utils/
 │   └── schema.py              # Database schema extraction
 │
-├── data/
-│   └── company.db             # SQLite database
+├── company.db                 # SQLite database
 │
 ├── requirements.txt
 ├── .env
